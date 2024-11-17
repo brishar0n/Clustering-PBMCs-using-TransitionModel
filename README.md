@@ -1,4 +1,4 @@
-# Modeling and Visualizing PBMC Clustering and Temporal Dynamics Using a Transition Framework
+# Modeling and Visualizing PBMC Clustering and Temporal Dynamics Using a Transition Model
 
 This project aims to model and visualize the clustering and temporal dynamics of Peripheral Blood Mononuclear Cells (PBMCs) to simulate the behavior and transitions of different immune cell subpopulations over time under various conditions, such as infections, immune responses, or treatments.
 
