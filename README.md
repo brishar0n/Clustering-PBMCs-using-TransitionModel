@@ -58,8 +58,8 @@ To run the project, follow these steps:
 - visualize.py: Generates visualizations to help interpret clustering results.
 
 ### Members
-- [Brigitte Sharon Alexander](https://github.com/brishar0n)
 - [Abas Iman](https://github.com/abasiman)
+- [Brigitte Sharon Alexander](https://github.com/brishar0n)
 - [Jeff Matthew Hadisoputro](https://github.com/jeffmatthew)
 
 ### Reference
