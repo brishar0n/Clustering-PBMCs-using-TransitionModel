@@ -14,7 +14,7 @@ To run the project, follow these steps:
    Open a terminal and change to the project directory:
 
    ```bash
-   cd path/to/Clustering-PBMCs-using-TransitionFramework
+   cd path/to/Clustering-PBMCs-using-TransitionModel
 
 2. **Run the Main Script**
    Execute the main Python script to start the analysis:
