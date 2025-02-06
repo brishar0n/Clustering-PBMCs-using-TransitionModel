@@ -2,10 +2,6 @@
 
 This project aims to model and visualize the clustering and temporal dynamics of Peripheral Blood Mononuclear Cells (PBMCs) to simulate the behavior and transitions of different immune cell subpopulations over time under various conditions, such as infections, immune responses, or treatments.
 
-## Requirements
-
-## Data Preparation
-
 ## Running the Project
 
 To run the project, follow these steps:
