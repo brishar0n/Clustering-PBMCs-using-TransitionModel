@@ -25,5 +25,3 @@ To run the project, follow these steps:
 - [Abas Iman](https://github.com/abasiman)
 - [Brigitte Sharon Alexander](https://github.com/brishar0n)
 - [Jeff Matthew Hadisoputro](https://github.com/jeffmatthew)
-
-### Reference
